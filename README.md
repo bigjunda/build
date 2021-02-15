@@ -47,7 +47,7 @@ build tools</h3>
 
 ```text
 apt-get -y install git
-git clone https://github.com/armbian/build
+git clone https://github.com/bigjunda/build
 cd build
 ./compile.sh
 ```
